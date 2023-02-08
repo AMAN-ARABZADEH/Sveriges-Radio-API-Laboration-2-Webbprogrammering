@@ -1,7 +1,7 @@
 // Denna fil innehåller lösningen till er uppgift.
 
 /*
-Moment 2
+Moment 2 Mittuniversitet
 Författare: Aman Arabzadeh
 Kurs: Webbprogrammering
 Datum: 2023-02-07
