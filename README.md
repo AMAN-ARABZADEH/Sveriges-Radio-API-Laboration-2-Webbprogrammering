@@ -1,8 +1,3 @@
 # Sveriges-Radio-API-Laboration-2-Webbprogrammering
 
-This was a University laboratory in course Web programming using  JavaScript AJAX, HTML, CSS,  to fetch data from external Server. 
-I'm using Sveriges Radio API for fetching data. In this moment I fetch Open source data to create a radio site for the users to listen to, 
-and displaying a simple radio for the user to listen to. 
-The user can listen to 34 different radio channels + see the title , description and see prev, current, next song if available at that time.
-The user can also search from the option menu and see the schedule for that specific program.
-
+As part of a University laboratory in the Web Programming course, I utilized technologies such as JavaScript, AJAX, HTML, and CSS to retrieve data from an external server. Specifically, I used the Sveriges Radio API to collect open source data in order to create a radio site that allows users to listen to a selection of 34 different radio channels. The site includes a simple radio player interface that displays the title, description, and information about the current, previous, and next song, if available at the time. In addition, the user can search from the options menu and view the schedule for a specific program. Overall, this project demonstrates the use of various web programming technologies to create an interactive web application using API.
